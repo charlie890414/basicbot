@@ -1,0 +1,15 @@
+{
+  "name": "basicbot",
+  "version": "1.0.0",
+  "description": "A simple bot for slack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "charlie890414",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.7",
+    "dotenv": "^4.0.0"
+  }
+}
